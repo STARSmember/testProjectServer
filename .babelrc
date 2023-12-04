@@ -1,0 +1,14 @@
+{
+    "presets": [
+      "@babel/preset-env"
+    ]
+    
+  }
+    /*
+    // this was pasted from the command above, it did not work. so it was removed.
+    ,
+    "plugins": [
+      "@babel/plugin-transform-runtime"
+    ]
+
+  */
